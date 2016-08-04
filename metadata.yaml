@@ -1,0 +1,32 @@
+_repo: The-Song-Celestial--Or-Bhagavad-G-t---from-the-Mah-bh-rata---13-Being-a-discourse-between-Arju__2388
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Arnold, Edwin, Sir
+    birthdate: 1832
+    deathdate: 1904
+    gutenberg_agent_id: '889'
+    url: http://www.gutenberg.org/2009/agents/889
+    wikipedia: http://en.wikipedia.org/wiki/Edwin_Arnold
+description: Translated from the Sanskrit text.
+gutenberg_bookshelf:
+- Hinduism
+- Harvard Classics
+gutenberg_issued: '2000-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2388'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hinduism -- Sacred books'
+- !lcc 'BL'
+- !lcsh 'Epic poetry'
+- !lcsh 'Sanskrit poetry -- Translations into English'
+- !lcc 'PK'
+- GITenberg
+title: "The Song Celestial; Or, Bhagavad-Gîtâ (from the Mahâbhârata)\r\nBeing a discourse\
+  \ between Arjuna, Prince of India, and the Supreme Being under the form of Krishna"
+url: http://www.gutenberg.org/ebooks/2388
