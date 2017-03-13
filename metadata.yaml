@@ -1,5 +1,5 @@
 _repo: The-Song-Celestial--Or-Bhagavad-G-t---from-the-Mah-bh-rata---13-Being-a-discourse-between-Arju__2388
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Arnold, Edwin, Sir
@@ -8,7 +8,12 @@ contributor:
     gutenberg_agent_id: '889'
     url: http://www.gutenberg.org/2009/agents/889
     wikipedia: http://en.wikipedia.org/wiki/Edwin_Arnold
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: Translated from the Sanskrit text.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2388#The-Song-Celestial--Or-Bhagavad-G-t---from-the-Mah-bh-rata---13-Being-a-discourse-between-Arju_
 gutenberg_bookshelf:
 - Hinduism
 - Harvard Classics
